@@ -1,0 +1,189 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0, 0, 0, .55);
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    margin-left: 40px;
+}
+
+.btn-outline-success {
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn-hero{
+    border: none;
+    padding: 10px 20px;
+    background: #21B573;
+    border: 1px solid;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 33px;
+    color: #ffff;
+}
+
+.hero_section {
+    background-color: #F0FFF0;
+}
+
+.btn:hover {
+    color: black;
+}
+
+.banner {
+    background-color: #F0FFF0;
+    min-height: 80vh;
+}
+
+.banner_content {
+    padding: 104px;
+}
+
+.banner_content h5 {
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FD511A;
+}
+
+.banner_content h1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 48px;
+    line-height: 70px;
+    color: #000000;
+}
+
+.banner_content p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 36px;
+    /* or 225% */
+    color: #6C6B6B;
+}
+
+.banner_content span {
+    color: #21B573;
+}
+
+
+.banner_content button {
+    border: none;
+    padding: 10px 40px;
+    background: #21B573;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 33px;
+    color: #ffff;
+}
+
+.banner img {
+    width: 100%;
+}
+
+.learn {
+    background-color: #E5E5E5;
+    padding: 100px;
+}
+
+.learn_content {
+
+    text-align: center;
+    background: #F8FFFB;
+    border-radius: 10px;
+    padding: 50px 0;
+    transition: .4s all ease-in-out;
+}
+
+.learn_content:hover {
+    background-color: #F0FFF0;
+}
+
+.learn_content img {
+    width: 25%;
+    padding: 5px;
+}
+
+.learn_content h2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+    color: #413960;
+}
+
+.learn_content p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    color: #585859;
+}
+
+.Course {
+    background: #E5E5E5
+}
+.course_header{
+text-align: center;
+padding: 100px;
+}
+.course_header h1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;    
+    color: #413960;
+    
+}
+.Course_content {
+    background: #F8FFFB;
+    border-radius: 10px;
+    padding: 50px 0;
+    transition: .4s all ease-in-out;
+}
+
+.Course_content img {
+    width: 80%;
+
+}
+
+.Course_content h2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #413960;
+}
+
+.Course_content p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+
+}
+.btn-custom{
+
+}
+.Course_content ul {
+   
+}
+
+.Course_content ul li {}
+
+.Course_content ul li a {}
